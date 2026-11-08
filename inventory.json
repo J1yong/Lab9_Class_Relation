@@ -1,0 +1,24 @@
+[
+    {
+        "[Product] id": "P001",
+        "[Product] name": "elavis",
+        "[Product] stock": 20.0,
+        "[Product] price": 20,
+        "[Supplier] id": 1001,
+        "[Supplier] name": "elavis",
+        "[Supplier] email": "elavis@gmail.com",
+        "[Product] digital_size": 20,
+        "type": "digital"
+    },
+    {
+        "[Product] id": "P002",
+        "[Product] name": "vesna",
+        "[Product] stock": 30.0,
+        "[Product] price": 30,
+        "[Supplier] id": 1002,
+        "[Supplier] name": "vesna",
+        "[Supplier] email": "vesna@gmail.com",
+        "[Product] weight": 30,
+        "type": "physical"
+    }
+]
